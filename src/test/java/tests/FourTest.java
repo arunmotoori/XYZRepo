@@ -16,7 +16,7 @@ public class FourTest extends Base {
 	@Test
 	public void testFour() throws IOException, InterruptedException {
 		
-		System.out.println("TestFour");
+		System.out.println("TestFour - Updated this text");
 		
 		driver = initializeBrowser();
 		
